@@ -1,0 +1,46 @@
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+  
+
+.titulo{
+    font-size: 180%;
+}
+
+.nav a{
+    color: black;
+}
+
+.nav a:hover{
+    color: black;
+}
+
+.conteudo-lista{
+    display: flex;
+    gap: 11%;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo-lista h5{
+    font-size: clamp(0.1em, 1em + 0.2vw, 2em);
+}
+
+.recebimentos{
+    color: rgb(0, 89, 255);
+}
+
+.gastos{
+    color: gray;
+}
+
+.investimentos{
+    color: rgb(255, 75, 9);
+}
+
+.botao{
+    height: 60px;
+    background-color: gray;
+}
+
